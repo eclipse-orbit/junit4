@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="JUnit Update Site" url="">
+      JUnit Update Site
+   </description>
+	  
+   <feature id="org.junit.feature"><category name="org.junit"/></feature>
+   <feature id="org.junit.feature.source"><category name="org.junit"/></feature>
+</site>
